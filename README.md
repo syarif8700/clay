@@ -1,0 +1,2 @@
+# clay
+Auto open
